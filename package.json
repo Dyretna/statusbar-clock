@@ -1,6 +1,10 @@
 {
   "name": "statusbar-clock",
   "displayName": "statusbar-clock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dyretna/statusbar-clock"
+  },
   "description": "shows time in the VS-code statusbar",
   "version": "0.0.1",
   "engines": {
