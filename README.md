@@ -50,6 +50,4 @@ Currently, this extension does not include any configurable settings. Future ver
 
 To test the extension, press `F5` in development mode. To use it in your regular VS Code setup, package it with `vsce` and install the `.vsix` file via the Command Palette.
 
----
 
-**Built with by Dyretna with co-pilot assistance.**
